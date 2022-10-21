@@ -27,3 +27,6 @@ Output (desired target):
 fit - how fit the candidate is for the role? (numeric, probability between 0-1)
 
 Keywords: “Aspiring human resources” or “seeking human resources”
+
+
+Goal - Predict how fit the candidate is based on their available information (variable fit)
