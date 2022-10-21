@@ -1,5 +1,9 @@
 # Potential_talents2
 
+![image](https://user-images.githubusercontent.com/97116888/197214898-793c121b-c6b0-44fa-bdb1-290f77f11a78.jpg)
+
+
+
 Background:
 
 As a talent sourcing and management company, we are interested in finding talented individuals for sourcing these candidates to technology companies. Finding talented candidates is not easy, for several reasons. The first reason is one needs to understand what the role is very well to fill in that spot, this requires understanding the client’s needs and what they are looking for in a potential candidate. The second reason is one needs to understand what makes a candidate shine for the role we are in search for. Third, where to find talented individuals is another challenge.
